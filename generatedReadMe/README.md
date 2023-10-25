@@ -1,8 +1,8 @@
 
-# er
+# ReadMe generator
 
 ## Description
-er
+generate read mes via command line
 
 ## Table of Contents
 - [Installation](#installation)
@@ -13,10 +13,10 @@ er
 - [Questions](#questions)
 
 ## Installation
-er
+run node on index.js file
 
 ## Usage
-er
+idk
 
 ## License
 [![License](https://img.shields.io/badge/License-MIT-brightgreen)](https://opensource.org/licenses/MIT)
@@ -24,11 +24,11 @@ er
 This project is licensed under the MIT license.
 
 ## Contributing
-er
+n/a
 
 ## Tests
-er
+run node
 
 ## Questions
-- GitHub: [er](https://github.com/er)
-- Email: er
+- GitHub: [loganlosee](https://github.com/loganlosee)
+- Email: undefined

@@ -1,6 +1,6 @@
 const fs = require('fs');
 const inquirer = require('inquirer');
-
+//format for exported read me with links to answers
 const generateReadme = (answers) => {
   return `
 # ${answers.title}
@@ -38,7 +38,7 @@ ${answers.tests}
 - Email: ${answers.email}
 `;
 };
-
+//use inquirer to get (answers)
 inquirer
   .prompt([
     {
@@ -88,6 +88,7 @@ inquirer
       message: 'Email Address:',
     },
   ])
+  //write file to generatedReadMe folder
   .then((answers) => {
     const readmeContent = generateReadme(answers);
 

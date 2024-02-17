@@ -1,4 +1,3 @@
-
 # ReadMe generator
 
 ## Description
@@ -14,18 +13,17 @@ Generate professional ReadMe files using command line.
 - [Questions](#questions)
 
 ## Installation
-run node on index.js file
+clone the repo
+run script 'npm start"
 
 ## Usage
-Type 'node index.js' to run node on .js script. Fill out a ReadMe through the prompts, and then check in the 'generatedReadMe' folder for generated ReadMe.
+Type 'node index.js' to run the script OR run the script 'npm start' Fill out a ReadMe through the prompts, and then check in the 'generatedReadMe' folder for generated ReadMe.
 
 ## License
 [![License](https://img.shields.io/badge/License-MIT-brightgreen)](https://opensource.org/licenses/MIT)
 
 This project is licensed under the MIT license.
 
-## Contributing
-n/a
 
 ## Tests
 Type 'node index.js' to run node on .js script. Fill out a ReadMe through the prompts, and then check in the 'generatedReadMe' folder for generated ReadMe.

@@ -1,8 +1,8 @@
 
-# test
+# test title
 
 ## Description
-test
+generating my read me
 
 ## Table of Contents
 - [Installation](#installation)
@@ -13,10 +13,10 @@ test
 - [Questions](#questions)
 
 ## Installation
-testy test
+see readme
 
 ## Usage
-na
+... info
 
 ## License
 [![License](https://img.shields.io/badge/License-MIT-brightgreen)](https://opensource.org/licenses/MIT)
@@ -24,11 +24,11 @@ na
 This project is licensed under the MIT license.
 
 ## Contributing
-na
+pls contribute
 
 ## Tests
-run node
+test instructions
 
 ## Questions
-- GitHub: [undefined](https://github.com/undefined)
-- Email: @lol.com
+- GitHub: [loganlosee](https://github.com/loganlosee)
+- Email: logan@email.com

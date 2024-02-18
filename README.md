@@ -22,7 +22,7 @@ Type 'node index.js' to run the script OR run the script 'npm start' Fill out a 
 
 ## Demo
 
-[![application demo](./screenshots/Screen Recording 2023-10-25 at 9.42.53 AM.mov)]
+[![application demo]([./screenshots/Screen Recording 2023-10-25 at 9.42.53 AM.mov](https://watch.screencastify.com/v/ll9GFndFTot9FwCTFcSN))]
 ## License
 
 [![License](https://img.shields.io/badge/License-MIT-brightgreen)](https://opensource.org/licenses/MIT)

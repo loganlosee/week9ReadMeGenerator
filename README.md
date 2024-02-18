@@ -2,6 +2,7 @@
 
 ## Description
 Generate professional ReadMe files using command line.
+
 [![screenshot](./screenshots/Screenshot%202023-10-25%20at%209.47.39 AM.png)]
 
 ## Table of Contents
@@ -18,9 +19,12 @@ run script 'npm start"
 
 ## Usage
 Type 'node index.js' to run the script OR run the script 'npm start' Fill out a ReadMe through the prompts, and then check in the 'generatedReadMe' folder for generated ReadMe.
+
 ## Demo
-[![application demo](./screenshots/Screen Recording 2023-10-25 at 9.42.53 AM.mov)
+
+[![application demo](./screenshots/Screen%20Recording%202023-10-25%20at%209.42.53 AM.mov)
 ## License
+
 [![License](https://img.shields.io/badge/License-MIT-brightgreen)](https://opensource.org/licenses/MIT)
 
 This project is licensed under the MIT license.
